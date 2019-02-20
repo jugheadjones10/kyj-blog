@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-20T16:46:10+08:00</updated><id>/feed.xml</id><title type="html">All sorta things</title><subtitle>Random writings on random things</subtitle><entry><title type="html">Videopcalypse</title><link href="/science/fiction/2019/02/02/videopocalypse.html" rel="alternate" type="text/html" title="Videopcalypse" /><published>2019-02-02T20:58:06+08:00</published><updated>2019-02-02T20:58:06+08:00</updated><id>/science/fiction/2019/02/02/videopocalypse</id><content type="html" xml:base="/science/fiction/2019/02/02/videopocalypse.html">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Roq 
+
+a world of facades and 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I can get a video and alter it to the point of perfection.
+The perspective of a video hacker. Scene of him trying to overcome various security measures.&lt;/p&gt;
+
+&lt;p&gt;Articles for evidence :&lt;/p&gt;
+
+&lt;p&gt;Prevention measures :
+https://www.wired.com/story/amber-authenticate-video-validation-blockchain-tampering-deepfakes/
+https://www.wired.com/story/the-blockchain-solution-to-our-deepfake-problems/&lt;/p&gt;
+
+&lt;p&gt;^^ Blockchain as the solution. Every 30 seconds that a video is being taken, its state is uploaded to the blockchain after being hashed by a unique algorithm only known to the hasher. While changes to the original is possible, it’ll be near impossible to deviate significantly, since the video hacker would only have a 30 second interval before the original would have to match the blockchain-uploaded version.&lt;/p&gt;
+
+&lt;p&gt;I can see this being used for police body cams and other high stake recordings, but will it reach the mainstream? And even if it does, what’s preventing deepfakers from synthesizing a completely new fake video based loosely on a real one, then uploading it to the blockchain, cementing its authenticity? And there’ll be quite some time before blockchain connected devices are distributed widely in infrastructure; before then, as long as a room lacks one of these devices, reality would still be distortable.&lt;/p&gt;
+
+&lt;p&gt;https://www.wired.com/story/face-swap-porn-legal-limbo/&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Biggest thing that lawyers have against deepfakes is that they are a privacy violation, but it’s technically not - what’s shown isn’t the actual steamy scenes insides celebrities’ sex lives, but recreations of them.&lt;/li&gt;
+  &lt;li&gt;Taking deepfakes down may be considered as censorship - a stifling of the inspired voices of sexually liberal artists.&lt;/li&gt;
+  &lt;li&gt;A point of attack could be the Federal Trade Commission Act’s prohibition of “unfair or deceptive acts or practices in or affecting commerce”. Welding the faces and bodies of different people without their consent &lt;em&gt;may&lt;/em&gt; be a deceptive act in the porn industry.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;https://www.wired.com/story/why-artificial-intelligence-researchers-should-be-more-paranoid/
+Being less open about research on artificial intelligence may give the “white hats” a head start, but aren’t the benefits of open source too big to ignore? Oftentimes huge improvements to the code are made by the community, which is a direct result of its ability to download all the code and play around with it freely (improvements not only in the code’s effectiveness but in methods to defend against it). And if it’s only a matter of time before the cyber criminals catch up to the researchers and start circulating fakes, then won’t it be better to have a community of coders well informed of the intricacies of the code’s inner workings so that they can easily identify its products?&lt;/p&gt;
+
+&lt;p&gt;To use a slightly convoluted analogy : in scenario number one, the instructions for crafting super-guns are left in the open for both enemy and fellow knights to see; the knights study the gun’s anatomy and search for any vulnerabilities, such that when they do get attacked by the gun, they know how to minimize the damage. Scenario number two : the king hides this magic formula in his chest, an enemy burglar steals it, and later, in war, the knights are taken by surprise and die in confused helplessness.&lt;/p&gt;
+
+&lt;p&gt;I assume the burglar’s heist is successful, and this may be where my argument falls apart. If advanced image and voice synthesis can only be achieved after huge amounts of specialized investments, and the discovered techniques are so crucial to the process that without them hackers are rendered powerless, then yes, keeping AI research from the hands of the public might be the correct way to go.&lt;/p&gt;
+
+&lt;p&gt;If not - keep the gates open, Google, and keep feeding us your brilliant material.&lt;/p&gt;
+
+&lt;p&gt;How might deepfakes be punished? Technically, the celebrities whose faces are used in deepfakes cannot claim that they have been “harmed” in any way - current technologies are still crude enough that tampered videos can be easily identified (hence throwing defamation claims out the window). But in 20, 30 years, who knows how fast AI might have progressed? The deepfakers might win our best computer scientists, and distribute fake porn that is unidentifiable as such; at that point, the legalities become unambiguous - the creators should be punished. Problem is, can they? The moment deepfakes become so real that the creators are incriminated,they also become indistinguishable from real videos, leaving prosecutors with no real evidence to charge the deepfakers.&lt;/p&gt;
+
+&lt;p&gt;An exploration of the meaning of truth in an age when it is falling apart.&lt;/p&gt;</content><author><name></name></author><summary type="html">Roq</summary></entry><entry><title type="html">First Post</title><link href="/personal/2019/02/02/first-post.html" rel="alternate" type="text/html" title="First Post" /><published>2019-02-02T13:07:06+08:00</published><updated>2019-02-02T13:07:06+08:00</updated><id>/personal/2019/02/02/first-post</id><content type="html" xml:base="/personal/2019/02/02/first-post.html">&lt;p&gt;Won’t lie; it’s been a hell of a long time since I last sat down to seriously write. All the writing competitions and the scramble to get published online probably broke the ole’s writer’s itch.&lt;/p&gt;
+
+&lt;p&gt;There’s more than half a year of blissful freedom ahead - quite possibly the last of such breaks until I retire - and it feels natural to work on this craft which is as yet safely within the grasp of humans.&lt;/p&gt;
+
+&lt;p&gt;AI’s march to the techno-optimists’ drums is as spirited as ever, so it’s not a stretch to assume that some day, even the traditionally artisitc practices will be taken over by robots with neural networks so sophisticated they can perceive linguistic nuances and from there write beautiful language. But even then, will they possess the instinctive urge to &lt;strong&gt;create&lt;/strong&gt; not functional, purposeful prose, but meandering ravings with a spontaneity analogous to the impulses of our neurons? Our self-importance, and the compulsive need to record the proudcts of this self in some vain hope that future generations may fawn over its wisdom seems to be distinctively human, an attribute of our élan vital.&lt;/p&gt;
+
+&lt;p&gt;We can’t create something unless we understand it - for now, and I think for a long time to come, the human soul will remain shrouded in glorious mystery.&lt;/p&gt;
+
+&lt;p&gt;But back to business. I feel like I will only be able to write in this naïve, starry-eyed way in my teens and twenties - gushing over whims, oblivious to my own cheesiness, using phrases like “I feel like” - when life has yet to hit me with its bag of troubles. Forty years old me, wise and mature, may at best be able to write a comedy piece for The New Yorker, not the raw, unadulterated musings of a kid who thinks he knows a lot.&lt;/p&gt;
+
+&lt;p&gt;I want to test my hand at fiction, especially science fiction - too long have I dimissed it as inferior to non-fiction. Deconstruction and commmunication of crucial topics to the public is a noble cause; by prickling hearts and piquing imaginations, however, people can be educated more effectively on, say, possible outcomes of current technological trends. I’ll continue writing non-fiction too, of course, whether that be explanation pieces on Physics and Philosophy or summaries of important tech innovations.&lt;/p&gt;
+
+&lt;p&gt;I only have what I have to write.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Update :&lt;/p&gt;
+
+&lt;p&gt;I finished reading “Of Mice and Men” by John Steinbeck today - and God, what a testament to the power of the written word. Put aside for a while the beautifully crafted storyline - so intensely moving and reflective of the human condition - and observe the subtleties of his literary technique. Steinbeck’s sentences are short and crisp, unladen with cumbersome vocabulary or the self-promotional and pompous language that I am so prone to. I have never before seen such common language used to achieve such tremendous effects.&lt;/p&gt;
+
+&lt;p&gt;His descriptions of the environment are mesmerizing; he elaborates on certain details over and over again without once making it feel repetitive, such that the images, and the sounds, and every lull in conversation and stirring of the wind all remain perfectly in my mind.&lt;/p&gt;
+
+&lt;p&gt;And the dialogues! I never lived in 20th century America, but I’m pretty sure everyone would have sounded exaclty like in the novel. It flows, just flows through my head, and you can hear the inflections in Lennie’s bewildered talk and the shrillness in Curley’s wife’s high-pitched, needy whine.&lt;/p&gt;
+
+&lt;p&gt;His greatest device, however, was the economy with which he used his words. Each repetition of a key phrase was integral to the building of the reader’s attachment to the characters; every scene added a layer of meaning, like to a meticulously creamed red velvet cake. For a particularly emotional reader, every one the last three scenes may very well induce tears, so heart-wrenching are the characters’ journeys. And every time you sense a potential cliché and brace yourself for it, Steinbeck smacks you in the head with a more realistic, but strangely more moving outcome.&lt;/p&gt;
+
+&lt;p&gt;Many aspects of the human condition are explored in the novel, so it definitely warrants a reread. I saw online how different facets of American society were represented by the characters, but for now I think I’ll just appreciate it as a story about people, for people.&lt;/p&gt;
+
+&lt;p&gt;One thing I’m sure about now though, is that for all the hype about AI overtaking humans, they’ll never be able to write like we do. &lt;strong&gt;Never&lt;/strong&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Won’t lie; it’s been a hell of a long time since I last sat down to seriously write. All the writing competitions and the scramble to get published online probably broke the ole’s writer’s itch.</summary></entry></feed>
